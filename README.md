@@ -7,7 +7,7 @@ Bu repo Kodluyoruz Frond-End eğitiminde oluşturduğumuz ilk repo.İçerisinde 
 Öncellikle projeyi clonelayın.
 
 ```markdown
-git clone https://github.com/
+git clone https://github.com/volunteer62/kodluyoruzilkrepo.git
 ```
 
 # Usage
